@@ -1,0 +1,12 @@
+{
+	"name": "WeatherAPI",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "Weather",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "RestResource",
+		"schema": []
+	}
+}
