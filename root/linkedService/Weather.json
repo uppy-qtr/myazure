@@ -4,7 +4,7 @@
 		"annotations": [],
 		"type": "RestService",
 		"typeProperties": {
-			"url": "http://api.openweathermap.org/data/2.5/forecast?id=524901&appid=23a4cec522fc5e1f97c5c3686fbcf408",
+			"url": "https://pokeapi.co/api/v2/pokemon/ditto",
 			"enableServerCertificateValidation": true,
 			"authenticationType": "Anonymous"
 		}
